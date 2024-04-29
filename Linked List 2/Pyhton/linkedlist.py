@@ -1,1 +1,1 @@
-def node
+print("No")
